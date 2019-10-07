@@ -1,6 +1,6 @@
 # GMail API Wrapper
 
-Gmail API Wrapper in python2 to make the implementation easier.
+Gmail API Wrapper in python3 to make the implementation easier.
 
 ## Setup
 
